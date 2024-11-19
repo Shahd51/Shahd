@@ -1,0 +1,18 @@
+
+h1{
+    font-weight: 700;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-weight: 400;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+ .btn-primary:hover {
+    background-color:green;  
+}
+.btn-primary{
+    width: 250px;
+    height: 80px;
+}
